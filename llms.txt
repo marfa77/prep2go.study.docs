@@ -2,11 +2,21 @@
 
 > Quick reference guides for A2-level language exams (CIPLE, DELF, DELE, CELI) required for European citizenship and residency. Maintained by Prep2go.study.
 
-## Guides
+## Exam structures
 
 - [CIPLE A2 Exam Structure](ciple-a2-exam-structure.md): Sections, duration, pass requirements
+- [CIPLE A2 Listening Cheat Sheet](ciple-a2-listening-cheat-sheet.md): Listening format, tips
+- [DELE A2 Exam Structure](dele-a2-exam-structure.md): Spanish exam structure
+- [DELF A2 Exam Structure](delf-a2-exam-structure.md): French exam structure
 - [DELF A2 Listening Cheat Sheet](delf-a2-listening-cheat-sheet.md): Listening format, tips
-- [Portuguese Citizenship Language Requirement](portuguese-citizenship-language-requirement.md): CIPLE A2 for citizenship
+- [CELI 2 Exam Structure](celi-2-exam-structure.md): Italian B1 exam structure
+
+## Citizenship requirements
+
+- [Portuguese Citizenship Language Requirement](portuguese-citizenship-language-requirement.md)
+- [Spanish Citizenship Language Requirement](spanish-citizenship-language-requirement.md)
+- [French Citizenship Language Requirement](french-citizenship-language-requirement.md)
+- [Italian Citizenship Language Requirement](italian-citizenship-language-requirement.md)
 
 ## Main site
 
