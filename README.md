@@ -1,3 +1,5 @@
+> **Moved:** this repository is superseded by **[marfa77/prep2go-exam-facts](https://github.com/marfa77/prep2go-exam-facts)** (source-linked dataset, verified 2026-10-12; site: https://marfa77.github.io/prep2go-exam-facts/). The pages here are no longer maintained, and some non-CIPLE facts may be out of date.
+
 # Immigration Language Exam Guides
 
 Quick reference guides for A2-level language exams required for citizenship and residency in Europe.
