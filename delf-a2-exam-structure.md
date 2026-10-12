@@ -31,4 +31,4 @@
 
 ---
 
-More details and practice: [https://www.prep2go.study/delf-a2](https://www.prep2go.study/delf-a2)
+More details and practice: [https://delf.prep2go.study/delf-a2](https://delf.prep2go.study/delf-a2)

@@ -37,4 +37,4 @@ DELE A2 is the official Spanish language certificate at A2 level. It proves basi
 
 ---
 
-More details and practice: [https://www.prep2go.study/dele-a2](https://www.prep2go.study/dele-a2)
+More details and practice: [https://dele.prep2go.study/dele-a2](https://dele.prep2go.study/dele-a2)

@@ -39,4 +39,4 @@ DELF A2 is the official French language certificate at A2 level. It proves basic
 
 ---
 
-More details and practice: [https://www.prep2go.study/delf-a2](https://www.prep2go.study/delf-a2)
+More details and practice: [https://delf.prep2go.study/delf-a2](https://delf.prep2go.study/delf-a2)

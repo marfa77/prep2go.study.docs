@@ -33,4 +33,4 @@
 
 ---
 
-More details and practice: [https://www.prep2go.study/celi-a2](https://www.prep2go.study/celi-a2)
+More details and practice: [https://celi.prep2go.study/celi-2-guide](https://celi.prep2go.study/celi-2-guide)

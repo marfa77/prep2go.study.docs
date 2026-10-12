@@ -28,8 +28,17 @@
 2. Practice with real CAPLE-style audio (conversations, announcements)
 3. Focus on key words; don't try to catch every syllable
 4. Read questions before each recording starts
-5. Use the 35% minimum per section rule — you don't need to ace it
+5. The pass mark is 55% overall with no per-section minimum, so you don't need to ace Listening; points from other sections count too
+
+
+## Sources (official)
+
+- CAPLE – CIPLE exam page (format, fee, 55% scale): https://caple.letras.ulisboa.pt/exame/2/ciple
+- LAPE-FLUL (Lisbon centre) 2026 calendar: https://www.iclp.letras.ulisboa.pt/calendario-de-exames-caple/
+- AIMA (Agência para a Integração, Migrações e Asilo): https://aima.gov.pt
+
+*Last verified: 2026-10-12*
 
 ---
 
-More details and practice: [https://www.prep2go.study/ciple-a2](https://www.prep2go.study/ciple-a2)
+More details and practice: [https://ciple.prep2go.study/ciple-a2](https://ciple.prep2go.study/ciple-a2)

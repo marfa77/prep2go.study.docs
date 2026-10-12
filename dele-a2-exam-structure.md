@@ -31,4 +31,4 @@
 
 ---
 
-More details and practice: [https://www.prep2go.study/dele-a2](https://www.prep2go.study/dele-a2)
+More details and practice: [https://dele.prep2go.study/dele-a2](https://dele.prep2go.study/dele-a2)
